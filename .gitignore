@@ -1,0 +1,31 @@
+# This example ships OpenTofu (HCL) + Terraform .auto.tfvars. The generated
+# *.auto.tfvars under aws-tfvars/ ARE the deliverable and are committed — do NOT
+# add *.auto.tfvars to this ignore list.
+
+# Terraform / OpenTofu state and run artifacts — never commit
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+crash.log
+*.tfplan
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Secrets / real values — never commit. Replace PLACEHOLDER_ tokens in a private
+# fork, not here. See PLACEHOLDERS.md.
+secrets.tfvars
+secrets.*
+*.env
+.env
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
