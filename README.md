@@ -216,3 +216,7 @@ trace* — what was added, why, and what triggered it.
 ## Next
 
 See **DEPLOYMENT_GUIDE.md** for the deploy-and-verify runbook for OpenTofu + tfvars.
+
+---
+
+⭐ If this saved you time, a star helps others find it.
