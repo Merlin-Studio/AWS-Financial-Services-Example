@@ -55,7 +55,7 @@ wrappers.
 | | |
 |---|---|
 | **Organization name** | Acme Bank |
-| **Primary contact** | admin@gcp1.intentarch.app |
+| **Primary contact** | intentarcha@gmail.com |
 | **Security contact** | my2mail@acme.com |
 | **Billing contact** | my3mail@acme.com |
 | **Home region** | us-east-2 |
