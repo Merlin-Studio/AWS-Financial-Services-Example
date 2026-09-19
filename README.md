@@ -15,6 +15,8 @@ Generated:    2026-06-14T06:59:02.823245Z
 > infrastructure-as-code bundle (LZA, OpenTofu, CDK or tfvars) in minutes.
 > **[Open Merlin →](https://app.merlin-studio.cloud)**
 
+✉️ **Questions about this example, or need one shaped for your organization?** Write to [intentarcha@gmail.com](mailto:intentarcha@gmail.com?subject=AWS-Financial-Services-Example) — questions, corrections and requests are all welcome.
+
 Profile: **STANDARD**
 Compliance: **CIS, PCI_DSS, SOX**
 
@@ -218,5 +220,7 @@ trace* — what was added, why, and what triggered it.
 See **DEPLOYMENT_GUIDE.md** for the deploy-and-verify runbook for OpenTofu + tfvars.
 
 ---
+
+✉️ Questions or feedback: [intentarcha@gmail.com](mailto:intentarcha@gmail.com?subject=AWS-Financial-Services-Example)
 
 ⭐ If this saved you time, a star helps others find it.
